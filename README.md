@@ -3,6 +3,6 @@ A clean and responsive website template made with HTML5 and CSS3. The template i
 
 ## Live Demo
 
-Check out the live demo of this project [here](https://abdallah181.github.io/Leon-Creative-Agency-Web-Template/).
+Check out the live demo of this project [here](https://abdallah181.github.io/Kasper-Website-Template/).
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://abdallah181.github.io/Leon-Creative-Agency-Web-Template/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://abdallah181.github.io/Kasper-Website-Template/)
